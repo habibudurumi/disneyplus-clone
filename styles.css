@@ -98,7 +98,7 @@ header {
 
 
 .hero-section .hero-bg {
-    background-image: url('/assets/original_2.jpeg');
+    background-image: url('./assets/original_2.jpeg');
     position: absolute;
     background-position: center top;
     background-repeat: no-repeat;
@@ -258,7 +258,7 @@ header {
 }
 
 .second-section .ss-bg {
-    background: url('/assets/original_4.jpeg');
+    background: url('./assets/original_4.jpeg');
     position: absolute;
     background-position: center top;
     background-repeat: no-repeat;
@@ -909,7 +909,7 @@ header {
     }
 
     .hero {
-        background-image: url("/assets/hero-mobile.jpeg");
+        background-image: url("./assets/hero-mobile.jpeg");
         background-size: cover;
        
     }
